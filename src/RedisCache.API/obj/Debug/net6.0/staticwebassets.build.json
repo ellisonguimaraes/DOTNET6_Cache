@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xz9mdWa+pJqHjsbDAvus09BEkewesJdNkcQ34aZe/o0=",
+  "Source": "RedisCache.API",
+  "BasePath": "_content/RedisCache.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
